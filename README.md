@@ -8,7 +8,7 @@
 ### Getting Started
 The quickest way to get started with `EDColor` is with [CocoaPods](http://cocoapods.org), but otherwise you can add the `EDColor` directory to your project and...
 ```objective-c
-#import "EDColor.h"
+# import "EDColor.h"
 ```
 This will automatically bring in all of the various categories and classes that make up the library. Alternatively, if you only need the functionality from a single part of `EDColor`, you can just import that specific header as the library was designed to be completely modular and (thus) decoupled.
 
